@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a96b75c5-03db-475f-a315-cf51e7a6e6fc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/quick-quiz-2.0.4/jb9474.quiz" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/ml_quiz.iml" afterPath="$PROJECT_DIR$/.idea/ml_quiz.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/quick-quiz-2.0.4/helpers.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/quick-quiz-2.0.4/jb9474.html" afterPath="$PROJECT_DIR$/quick-quiz-2.0.4/jb9474.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/quick-quiz-2.0.4/jb9474.quiz" afterPath="$PROJECT_DIR$/quick-quiz-2.0.4/jb9474.quiz" />
     </list>
     <ignored path="ml_quiz.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -15,6 +15,9 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/ml_quiz$helpers.coverage" NAME="helpers Coverage Results" MODIFIED="1482482551712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/quick-quiz-2.0.4" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -28,9 +31,116 @@
       <file leaf-file-name="my_quiz.quiz" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/quick-quiz-2.0.4/my_quiz.quiz">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="33" lean-forward="true" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+            <state relative-caret-position="315">
+              <caret line="21" column="54" lean-forward="true" selection-start-line="21" selection-start-column="54" selection-end-line="21" selection-end-column="54" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jb9474.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/quick-quiz-2.0.4/jb9474.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1482485721000" expanded="true" signature="8366:8787" ph="..." />
+                <marker date="1482485721000" expanded="false" signature="8905:8974" ph="..." />
+                <marker date="1482485721000" expanded="false" signature="9082:9110" ph="..." />
+                <marker date="1482485721000" expanded="false" signature="9127:9139" ph="..." />
+                <marker date="1482485721000" expanded="false" signature="9254:9268" ph="..." />
+                <marker date="1482485721000" expanded="true" signature="9269:11415" ph="..." />
+                <marker date="1482485721000" expanded="false" signature="9284:9306" ph="..." />
+                <marker date="1482485721000" expanded="false" signature="9506:9542" ph="..." />
+                <marker date="1482485721000" expanded="false" signature="9647:9672" ph="..." />
+                <marker date="1482485721000" expanded="true" signature="9673:11059" ph="..." />
+                <marker date="1482485721000" expanded="true" signature="9876:11050" ph="..." />
+                <marker date="1482485721000" expanded="true" signature="9929:11044" ph="..." />
+                <marker date="1482485721000" expanded="true" signature="10022:10151" ph="..." />
+                <marker date="1482485721000" expanded="false" signature="10118:10132" ph="..." />
+                <marker date="1482485721000" expanded="true" signature="10352:10534" ph="..." />
+                <marker date="1482485721000" expanded="false" signature="10449:10463" ph="..." />
+                <marker date="1482485721000" expanded="true" signature="10713:10855" ph="..." />
+                <marker date="1482485721000" expanded="false" signature="10810:10824" ph="..." />
+                <marker date="1482485721000" expanded="false" signature="11168:11237" ph="..." />
+                <marker date="1482485721000" expanded="false" signature="11345:11373" ph="..." />
+                <marker date="1482485721000" expanded="false" signature="11390:11402" ph="..." />
+                <marker date="1482485721000" expanded="false" signature="11517:11531" ph="..." />
+                <marker date="1482485721000" expanded="true" signature="11532:14349" ph="..." />
+                <marker date="1482485721000" expanded="false" signature="11547:11569" ph="..." />
+                <marker date="1482485721000" expanded="false" signature="11782:11818" ph="..." />
+                <marker date="1482485721000" expanded="false" signature="11925:11950" ph="..." />
+                <marker date="1482485721000" expanded="true" signature="11951:13993" ph="..." />
+                <marker date="1482485721000" expanded="true" signature="12217:13984" ph="..." />
+                <marker date="1482485721000" expanded="true" signature="12270:13978" ph="..." />
+                <marker date="1482485721000" expanded="true" signature="12278:13972" ph="..." />
+                <marker date="1482485721000" expanded="true" signature="12288:13963" ph="..." />
+                <marker date="1482485721000" expanded="true" signature="12363:12890" ph="..." />
+                <marker date="1482485721000" expanded="false" signature="12845:12859" ph="..." />
+                <marker date="1482485721000" expanded="true" signature="12897:13424" ph="..." />
+                <marker date="1482485721000" expanded="false" signature="13379:13393" ph="..." />
+                <marker date="1482485721000" expanded="true" signature="13431:13952" ph="..." />
+                <marker date="1482485721000" expanded="false" signature="13906:13920" ph="..." />
+                <marker date="1482485721000" expanded="false" signature="14102:14171" ph="..." />
+                <marker date="1482485721000" expanded="false" signature="14279:14307" ph="..." />
+                <marker date="1482485721000" expanded="false" signature="14324:14336" ph="..." />
+                <marker date="1482485721000" expanded="false" signature="14451:14465" ph="..." />
+                <marker date="1482485721000" expanded="true" signature="14466:15886" ph="..." />
+                <marker date="1482485721000" expanded="false" signature="14481:14503" ph="..." />
+                <marker date="1482485721000" expanded="false" signature="14716:14752" ph="..." />
+                <marker date="1482485721000" expanded="false" signature="14864:14889" ph="..." />
+                <marker date="1482485721000" expanded="true" signature="14890:15530" ph="..." />
+                <marker date="1482485721000" expanded="true" signature="15093:15521" ph="..." />
+                <marker date="1482485721000" expanded="true" signature="15146:15515" ph="..." />
+                <marker date="1482485721000" expanded="true" signature="15186:15315" ph="..." />
+                <marker date="1482485721000" expanded="false" signature="15282:15296" ph="..." />
+                <marker date="1482485721000" expanded="true" signature="15377:15508" ph="..." />
+                <marker date="1482485721000" expanded="false" signature="15473:15487" ph="..." />
+                <marker date="1482485721000" expanded="false" signature="15639:15708" ph="..." />
+                <marker date="1482485721000" expanded="false" signature="15816:15844" ph="..." />
+                <marker date="1482485721000" expanded="false" signature="15861:15873" ph="..." />
+                <marker date="1482485721000" expanded="false" signature="15988:16002" ph="..." />
+                <marker date="1482485721000" expanded="true" signature="16003:18293" ph="..." />
+                <marker date="1482485721000" expanded="false" signature="16106:16128" ph="..." />
+                <marker date="1482485721000" expanded="false" signature="16341:16377" ph="..." />
+                <marker date="1482485721000" expanded="false" signature="16446:16471" ph="..." />
+                <marker date="1482485721000" expanded="true" signature="16472:17938" ph="..." />
+                <marker date="1482485721000" expanded="true" signature="16603:16995" ph="..." />
+                <marker date="1482485721000" expanded="true" signature="16701:16945" ph="..." />
+                <marker date="1482485721000" expanded="false" signature="16965:16977" ph="..." />
+                <marker date="1482485721000" expanded="true" signature="17089:17929" ph="..." />
+                <marker date="1482485721000" expanded="false" signature="18046:18115" ph="..." />
+                <marker date="1482485721000" expanded="false" signature="18223:18251" ph="..." />
+                <marker date="1482485721000" expanded="false" signature="18268:18280" ph="..." />
+                <marker date="1482485721000" expanded="false" signature="18395:18409" ph="..." />
+                <marker date="1482485721000" expanded="true" signature="18410:21174" ph="..." />
+                <marker date="1482485721000" expanded="false" signature="18513:18535" ph="..." />
+                <marker date="1482485721000" expanded="false" signature="18748:18784" ph="..." />
+                <marker date="1482485721000" expanded="false" signature="18853:18878" ph="..." />
+                <marker date="1482485721000" expanded="true" signature="18879:20819" ph="..." />
+                <marker date="1482485721000" expanded="true" signature="19010:19532" ph="..." />
+                <marker date="1482485721000" expanded="true" signature="19108:19482" ph="..." />
+                <marker date="1482485721000" expanded="false" signature="19502:19514" ph="..." />
+                <marker date="1482485721000" expanded="true" signature="19626:20810" ph="..." />
+                <marker date="1482485721000" expanded="false" signature="20927:20996" ph="..." />
+                <marker date="1482485721000" expanded="false" signature="21104:21132" ph="..." />
+                <marker date="1482485721000" expanded="false" signature="21149:21161" ph="..." />
+                <marker date="1482485721000" expanded="true" signature="21281:22538" ph="..." />
+                <marker date="1482485721000" expanded="true" signature="21328:22490" ph="{...}" />
+                <marker date="1482485721000" expanded="true" signature="21369:22431" ph="{&quot;lbn&quot;: &quot;Finish quiz&quot;...}" />
+                <marker date="1482485721000" expanded="true" signature="22648:22661" ph="..." />
+                <marker date="1482485721000" expanded="true" signature="22935:22947" ph="..." />
+                <marker date="1482485721000" expanded="true" signature="23090:23102" ph="..." />
+                <marker date="1482485721000" expanded="true" signature="23191:23203" ph="..." />
+                <marker date="1482485721000" expanded="true" signature="23294:23306" ph="..." />
+                <marker date="1482485721000" expanded="true" signature="23396:23408" ph="..." />
+                <marker date="1482485721000" expanded="true" signature="23501:23513" ph="..." />
+                <marker date="1482485721000" expanded="true" signature="23547:23889" ph="..." />
+                <marker date="1482485721000" expanded="true" signature="23553:23568" ph="/*...*/" />
+                <marker date="1482485721000" expanded="true" signature="23869:23878" ph="/*...*/" />
+                <marker date="1482485721000" expanded="true" signature="23974:23986" ph="..." />
+                <marker date="1482485721000" expanded="true" signature="24088:24100" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -38,8 +148,18 @@
       <file leaf-file-name="jb9474.quiz" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/quick-quiz-2.0.4/jb9474.quiz">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="35" column="39" lean-forward="false" selection-start-line="35" selection-start-column="39" selection-end-line="35" selection-end-column="39" />
+            <state relative-caret-position="-808">
+              <caret line="99" column="80" lean-forward="false" selection-start-line="99" selection-start-column="80" selection-end-line="99" selection-end-column="80" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="helpers.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/quick-quiz-2.0.4/helpers.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -89,12 +209,26 @@
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>matrix</find>
+      <find>sort</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/quick-quiz-2.0.4/helpers.py" />
         <option value="$PROJECT_DIR$/quick-quiz-2.0.4/jb9474.quiz" />
       </list>
     </option>
@@ -175,6 +309,243 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.eslint.eslintPackage" value="" />
+  </component>
+  <component name="RunManager" selected="Python.helpers">
+    <configuration default="false" name="helpers" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/quick-quiz-2.0.4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ml_quiz" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/quick-quiz-2.0.4/helpers.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ml_quiz" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ml_quiz" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ml_quiz" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ml_quiz" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="ml_quiz" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ml_quiz" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ml_quiz" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ml_quiz" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ml_quiz" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ml_quiz" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Python.helpers" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python.helpers" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -199,20 +570,20 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295711" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39954853" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="The R Graphics" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Packages" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -230,7 +601,15 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/quick-quiz-2.0.4/helpers.py</url>
+          <line>7</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -294,18 +673,139 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/quick-quiz-2.0.4/helpers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quick-quiz-2.0.4/jb9474text.quiz">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quick-quiz-2.0.4/jb9474.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1482485721000" expanded="true" signature="8366:8787" ph="..." />
+            <marker date="1482485721000" expanded="false" signature="8905:8974" ph="..." />
+            <marker date="1482485721000" expanded="false" signature="9082:9110" ph="..." />
+            <marker date="1482485721000" expanded="false" signature="9127:9139" ph="..." />
+            <marker date="1482485721000" expanded="false" signature="9254:9268" ph="..." />
+            <marker date="1482485721000" expanded="true" signature="9269:11415" ph="..." />
+            <marker date="1482485721000" expanded="false" signature="9284:9306" ph="..." />
+            <marker date="1482485721000" expanded="false" signature="9506:9542" ph="..." />
+            <marker date="1482485721000" expanded="false" signature="9647:9672" ph="..." />
+            <marker date="1482485721000" expanded="true" signature="9673:11059" ph="..." />
+            <marker date="1482485721000" expanded="true" signature="9876:11050" ph="..." />
+            <marker date="1482485721000" expanded="true" signature="9929:11044" ph="..." />
+            <marker date="1482485721000" expanded="true" signature="10022:10151" ph="..." />
+            <marker date="1482485721000" expanded="false" signature="10118:10132" ph="..." />
+            <marker date="1482485721000" expanded="true" signature="10352:10534" ph="..." />
+            <marker date="1482485721000" expanded="false" signature="10449:10463" ph="..." />
+            <marker date="1482485721000" expanded="true" signature="10713:10855" ph="..." />
+            <marker date="1482485721000" expanded="false" signature="10810:10824" ph="..." />
+            <marker date="1482485721000" expanded="false" signature="11168:11237" ph="..." />
+            <marker date="1482485721000" expanded="false" signature="11345:11373" ph="..." />
+            <marker date="1482485721000" expanded="false" signature="11390:11402" ph="..." />
+            <marker date="1482485721000" expanded="false" signature="11517:11531" ph="..." />
+            <marker date="1482485721000" expanded="true" signature="11532:14349" ph="..." />
+            <marker date="1482485721000" expanded="false" signature="11547:11569" ph="..." />
+            <marker date="1482485721000" expanded="false" signature="11782:11818" ph="..." />
+            <marker date="1482485721000" expanded="false" signature="11925:11950" ph="..." />
+            <marker date="1482485721000" expanded="true" signature="11951:13993" ph="..." />
+            <marker date="1482485721000" expanded="true" signature="12217:13984" ph="..." />
+            <marker date="1482485721000" expanded="true" signature="12270:13978" ph="..." />
+            <marker date="1482485721000" expanded="true" signature="12278:13972" ph="..." />
+            <marker date="1482485721000" expanded="true" signature="12288:13963" ph="..." />
+            <marker date="1482485721000" expanded="true" signature="12363:12890" ph="..." />
+            <marker date="1482485721000" expanded="false" signature="12845:12859" ph="..." />
+            <marker date="1482485721000" expanded="true" signature="12897:13424" ph="..." />
+            <marker date="1482485721000" expanded="false" signature="13379:13393" ph="..." />
+            <marker date="1482485721000" expanded="true" signature="13431:13952" ph="..." />
+            <marker date="1482485721000" expanded="false" signature="13906:13920" ph="..." />
+            <marker date="1482485721000" expanded="false" signature="14102:14171" ph="..." />
+            <marker date="1482485721000" expanded="false" signature="14279:14307" ph="..." />
+            <marker date="1482485721000" expanded="false" signature="14324:14336" ph="..." />
+            <marker date="1482485721000" expanded="false" signature="14451:14465" ph="..." />
+            <marker date="1482485721000" expanded="true" signature="14466:15886" ph="..." />
+            <marker date="1482485721000" expanded="false" signature="14481:14503" ph="..." />
+            <marker date="1482485721000" expanded="false" signature="14716:14752" ph="..." />
+            <marker date="1482485721000" expanded="false" signature="14864:14889" ph="..." />
+            <marker date="1482485721000" expanded="true" signature="14890:15530" ph="..." />
+            <marker date="1482485721000" expanded="true" signature="15093:15521" ph="..." />
+            <marker date="1482485721000" expanded="true" signature="15146:15515" ph="..." />
+            <marker date="1482485721000" expanded="true" signature="15186:15315" ph="..." />
+            <marker date="1482485721000" expanded="false" signature="15282:15296" ph="..." />
+            <marker date="1482485721000" expanded="true" signature="15377:15508" ph="..." />
+            <marker date="1482485721000" expanded="false" signature="15473:15487" ph="..." />
+            <marker date="1482485721000" expanded="false" signature="15639:15708" ph="..." />
+            <marker date="1482485721000" expanded="false" signature="15816:15844" ph="..." />
+            <marker date="1482485721000" expanded="false" signature="15861:15873" ph="..." />
+            <marker date="1482485721000" expanded="false" signature="15988:16002" ph="..." />
+            <marker date="1482485721000" expanded="true" signature="16003:18293" ph="..." />
+            <marker date="1482485721000" expanded="false" signature="16106:16128" ph="..." />
+            <marker date="1482485721000" expanded="false" signature="16341:16377" ph="..." />
+            <marker date="1482485721000" expanded="false" signature="16446:16471" ph="..." />
+            <marker date="1482485721000" expanded="true" signature="16472:17938" ph="..." />
+            <marker date="1482485721000" expanded="true" signature="16603:16995" ph="..." />
+            <marker date="1482485721000" expanded="true" signature="16701:16945" ph="..." />
+            <marker date="1482485721000" expanded="false" signature="16965:16977" ph="..." />
+            <marker date="1482485721000" expanded="true" signature="17089:17929" ph="..." />
+            <marker date="1482485721000" expanded="false" signature="18046:18115" ph="..." />
+            <marker date="1482485721000" expanded="false" signature="18223:18251" ph="..." />
+            <marker date="1482485721000" expanded="false" signature="18268:18280" ph="..." />
+            <marker date="1482485721000" expanded="false" signature="18395:18409" ph="..." />
+            <marker date="1482485721000" expanded="true" signature="18410:21174" ph="..." />
+            <marker date="1482485721000" expanded="false" signature="18513:18535" ph="..." />
+            <marker date="1482485721000" expanded="false" signature="18748:18784" ph="..." />
+            <marker date="1482485721000" expanded="false" signature="18853:18878" ph="..." />
+            <marker date="1482485721000" expanded="true" signature="18879:20819" ph="..." />
+            <marker date="1482485721000" expanded="true" signature="19010:19532" ph="..." />
+            <marker date="1482485721000" expanded="true" signature="19108:19482" ph="..." />
+            <marker date="1482485721000" expanded="false" signature="19502:19514" ph="..." />
+            <marker date="1482485721000" expanded="true" signature="19626:20810" ph="..." />
+            <marker date="1482485721000" expanded="false" signature="20927:20996" ph="..." />
+            <marker date="1482485721000" expanded="false" signature="21104:21132" ph="..." />
+            <marker date="1482485721000" expanded="false" signature="21149:21161" ph="..." />
+            <marker date="1482485721000" expanded="true" signature="21281:22538" ph="..." />
+            <marker date="1482485721000" expanded="true" signature="21328:22490" ph="{...}" />
+            <marker date="1482485721000" expanded="true" signature="21369:22431" ph="{&quot;lbn&quot;: &quot;Finish quiz&quot;...}" />
+            <marker date="1482485721000" expanded="true" signature="22648:22661" ph="..." />
+            <marker date="1482485721000" expanded="true" signature="22935:22947" ph="..." />
+            <marker date="1482485721000" expanded="true" signature="23090:23102" ph="..." />
+            <marker date="1482485721000" expanded="true" signature="23191:23203" ph="..." />
+            <marker date="1482485721000" expanded="true" signature="23294:23306" ph="..." />
+            <marker date="1482485721000" expanded="true" signature="23396:23408" ph="..." />
+            <marker date="1482485721000" expanded="true" signature="23501:23513" ph="..." />
+            <marker date="1482485721000" expanded="true" signature="23547:23889" ph="..." />
+            <marker date="1482485721000" expanded="true" signature="23553:23568" ph="/*...*/" />
+            <marker date="1482485721000" expanded="true" signature="23869:23878" ph="/*...*/" />
+            <marker date="1482485721000" expanded="true" signature="23974:23986" ph="..." />
+            <marker date="1482485721000" expanded="true" signature="24088:24100" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/quick-quiz-2.0.4/my_quiz.quiz">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="33" lean-forward="true" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+        <state relative-caret-position="315">
+          <caret line="21" column="54" lean-forward="true" selection-start-line="21" selection-start-column="54" selection-end-line="21" selection-end-column="54" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/quick-quiz-2.0.4/jb9474.quiz">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="35" column="39" lean-forward="false" selection-start-line="35" selection-start-column="39" selection-end-line="35" selection-end-column="39" />
+        <state relative-caret-position="-808">
+          <caret line="99" column="80" lean-forward="false" selection-start-line="99" selection-start-column="80" selection-end-line="99" selection-end-column="80" />
           <folding />
         </state>
       </provider>

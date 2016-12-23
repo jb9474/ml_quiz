@@ -13,12 +13,10 @@
 
 
   "1": {
-    "difficulty": "2",
+    "difficulty": "3",
     "reference": "1.2",
     "problem_type": "problem solving",
     "question": "A first year student enters a maths class looking slightly unwell. Given the assumptions below, what are the odds that this student has been on a night out? Given that, 95% chance if they have been out, they will look ill, given that any student diet isn't fantastic if they haven't been out 30% chance they look unwell anyway, and that, as the student is a fresher, 40% chance they will have been out!",
-    // these are answers, a correct answer
-    // is indicated by a "+", incorrect answer has a "-"
     "answer_type": "multiple",
     "answers": [
       {
@@ -33,33 +31,58 @@
     "hint": "should be straightforward..",
     "workings": "p(look unwell | on night out) = 0.95, p(look unwell | not been on night out) = 0.3, p(been on night out) = 0.4. Odds(been out | look ill) = L (look ill | been out) x O (been out) = (0.95/0.3) x (0.4 / 1- 0.4) = 2.1 > 1 so numerator most likely.",
     "source": "Probabilistic Reasoning in Intelligent Systems, Judea Pearl",
-    "comments": "nothin to comment here"
+    "comments": "careful to use Odds as ratios."
   },
 
   "2": {
     "difficulty": "5",
-    "reference": "2.2",
-    "problem_type": "calculations",
-    "question": "Mark all the letters:",
-    "answer_type": "multiple",
+    "reference": "0",
+    "problem_type": "beyond scope of book",
+    "answer_type": "blank_answer",
+    "question": [
+      " \"A two-by-two contingency table with relative frequencies has", 1, "degrees of freedom. A typical choice related to ROC analysis is to use the false positive rate fpr=FP/NEG on the X-axis, true positive rate tpr=TP/POS on the Y-axis, and", 3, "on the Z-axis. This is 3D ROC space. The key assumption of ROC analysis is that true and false positive rates describe the performance of the model", 2, "of the class distribution, and we are thus free to manipulate the Z-axis in 3D ROC space to conform to the class distribution of the environment in which the model will be employed.\" "],
+      "answers": [
+      { "correctness": 1,
+        "answer": "3",
+        "explanation": "for each set of false positive and true positive rates the class distribution will affect the classifiers accuracy."
+      },
+      { "correctness": 2,
+        "answer": "independently",
+        "explanation": "normalisation factors away this independence in a normalised coverage ROC plot"
+      },
+        { "correctness": 3,
+        "answer": "the relative frequency of positives pos=POS/(POS+NEG)",
+        "explanation": "in this 3D ROC space the user is now free to conform to the class distribution of the environment in which the model will be employed."
+      }
+    ],
+    "hint": "a ROC plot allows the comparison of different classifiers irrespective of their respective class distributions",
+    "workings": "n/a",
+    "source": "Flach, P.A (2003) The geometry of ROC space: understanding machine learning metrics through ROC isometrics. In T. Fawcett and N. Mishra (eds.) Proceedings of the Twentieth International Conference on Machine Learning (ICML 2003), pp. 194-201. AAAI Press. 156",
+    "comments": "Expanding knowledge from 2d ROC space to 3D for more sophisticated model analysis"
+  },
+
+  "6": {
+    "difficulty": "1",
+    "reference": "3.3",
+    "problem_type": "definition",
+    "question": "Match the following sentences.",
+    "answer_type": "matrix_sort_answer",
     "answers": [
-      { "correctness": "+",
-        "answer": "T",
-        "explanation": "why this answer is correct"
+      { "correctness": "\"model can be applied to new data\"",
+        "answer": "'predictive'.",
+        "explanation": "model has been learned."
       },
-      { "correctness": "+",
-        "answer": "F",
-        "explanation": "why this answer is correct"
+      { "correctness": "\"model only relevant to data given\"",
+        "answer": "'descriptive'.",
+        "explanation": "n/a"
       },
-      { "correctness": "-",
-        "answer": "7"
+      { "correctness": "\"model trained on labelled data\"",
+        "answer": "'supervised learning'.",
+        "explanation": "n/a"
       },
-      { "correctness": "-",
-        "answer": "<img src=\"img/unicorn.jpg\" style=\"width:304px;height:228px;\">"
-      },
-      { "correctness": "+",
-        "answer": "W",
-        "explanation": "why this answer is correct"
+      { "correctness": "\"model trained on unlabelled data\"",
+        "answer": "'unsupervised learning'.",
+        "explanation": "n/a"
       }
     ],
     "hint": "you do the alphabet",
@@ -70,28 +93,94 @@
 
   "3": {
     "difficulty": "2",
-    "reference": "12.2",
-    "problem_type": "beyond scope of the book",
-    "question": "Order the following numbers:",
+    "reference": "5.1",
+    "problem_type": "calculation",
+    "question": "Time machines now exist and Bob and Jane go back in time to classify some T-rexs. \
+        Using the labels and information below, but ignoring the t-rex column, place \
+        the features in ascending order of total entropy and using this measure, thus show which would be the best split \
+        at the root of a decision tree.<br>\
+        <table>\
+        <tr>\
+          <th><b>Length</b></th>\
+          <th><b>Claws</b></th>\
+          <th><b>Teeth</b></th>\
+          <th><b>Long Tail</b></th>\
+          <th><b>T-Rex</b></th>\
+        </tr>\
+        <tr>\
+          <td>9</td>\
+          <td>yes</td>\
+          <td>yes</td>\
+          <td>no</td>\
+          <td>yes</td>\
+        </tr>\
+        <tr>\
+          <td>10</td>\
+          <td>yes</td>\
+          <td>yes</td>\
+          <td>yes</td>\
+          <td>yes</td>\
+        </tr>\
+        <tr>\
+          <td>9</td>\
+          <td>yes</td>\
+          <td>yes</td>\
+          <td>yes</td>\
+          <td>yes</td>\
+        </tr>\
+        <tr>\
+          <td>8</td>\
+          <td>no</td>\
+          <td>no</td>\
+          <td>yes</td>\
+          <td>no</td>\
+        </tr>\
+        <tr>\
+         <td>8</td>\
+          <td>yes</td>\
+          <td>yes</td>\
+          <td>no</td>\
+          <td>no</td>\
+        </tr>\
+        <tr>\
+         <td>9</td>\
+          <td>no</td>\
+          <td>yes</td>\
+          <td>yes</td>\
+          <td>no</td>\
+        </tr>\
+      </table>",
     "answer_type": "sort",
     "answers": [
-      { "correctness": "2",
-        "answer": "26",
-        "explanation": "why this order is correct"
+      { "correctness": "4",
+        "answer": "long tail",
+        "explanation": "entropy 1"
       },
       { "correctness": "1",
-        "answer": "19",
-        "explanation": "why this order is correct"
+        "answer": "length",
+        "explanation": "entropy 0.46"
       },
       { "correctness": "3",
-        "answer": "70",
-        "explanation": "why this order is correct"
+        "answer": "teeth",
+        "explanation": "0.8"
+      },
+      { "correctness": "2",
+        "answer": "claws",
+        "explanation": "0.54"
       }
     ],
-    "hint": "you do the alphabet",
-    "workings": "how to arrive at the correct answer and why all the others are incorrect",
-    "source": "some book",
-    "comments": "What's special about this question?"
+    "hint": "use the weighted average impurity. From inspection can see those features with entropy 1 and 0.",
+    "workings": "length[8,9,10]->[0+,2-][2+,1-][1+,0-]\
+      claws[yes,no]->[3+,1-][0+,2-]\
+      teeth[yes,no]->[3+,2-][0+,1-]\
+      long-tail[yes,no]->[2+,2-][1+,1-]\
+      calc:\
+      length (6/2*0)+(3/6*0.92)+(1/6*0)=0.46\
+      claws (4/6*0.81)+(2/7*0)=0.54\
+      teeth (5/6*0.97)+(3/6*0)=0.8\
+      long-tail (4/6*1)+(2/6*1)=1",
+    "source": "Machine Learning, Flach.",
+    "comments": "straightforward calculations."
   },
 
   "4": {
@@ -139,7 +228,7 @@
     "comments": "What's special about this question?"
   },
 
-  "6": {
+  "7": {
     "difficulty": "5",
     "reference": "3.3",
     "problem_type": "beyond scope of the book",
