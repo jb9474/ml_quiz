@@ -35,6 +35,35 @@
   },
 
   "2": {
+    "difficulty": "2",
+    "reference": "6.2",
+    "problem_type": "calculation",
+    "question": "Calculate the ranking error of the following rule list:<br>\
+        if length = 8, class = \u2295 [2+, 5-]<br>\
+        else if teeth = yes class = \u2296 [6+, 3-]<br>\
+        else class = \u2296 [0+, 1-]",
+    "answer_type": "multiple",
+    "answers": [
+      {
+        "correctness": "+",
+        "answer": "20",
+        "explanation": "n/a"
+      },
+      {
+        "correctness": "-",
+        "answer": "14"
+      },
+      {
+        "correctness": "-",
+        "answer": "29"
+      }],
+    "hint": "consider half errors and full errors",
+    "workings": "10x1/2 + 18x1/2 + 6x1 + 3x0 = 20",
+    "source": "Flach, Machine Learning",
+    "comments": "careful to use Odds as ratios."
+  },
+
+  "3": {
     "difficulty": "5",
     "reference": "0",
     "problem_type": "beyond scope of book",
@@ -61,7 +90,7 @@
     "comments": "Expanding knowledge from 2d ROC space to 3D for more sophisticated model analysis"
   },
 
-  "6": {
+  "4": {
     "difficulty": "1",
     "reference": "3.3",
     "problem_type": "definition",
@@ -91,7 +120,7 @@
     "comments": "What's special about this question?"
   },
 
-  "3": {
+  "5": {
     "difficulty": "2",
     "reference": "5.1",
     "problem_type": "calculation",
@@ -183,7 +212,7 @@
     "comments": "straightforward calculations."
   },
 
-  "4": {
+  "5": {
     "difficulty": "4",
     "reference": "3.3",
     "problem_type": "beyond scope of the book",
@@ -208,7 +237,7 @@
     "comments": "What's special about this question?"
   },
 
-  "5": {
+  "6": {
     "difficulty": "3",
     "reference": "3.3",
     "problem_type": "beyond scope of the book",

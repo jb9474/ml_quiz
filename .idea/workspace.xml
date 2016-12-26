@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a96b75c5-03db-475f-a315-cf51e7a6e6fc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/quick-quiz-2.0.4/helpers.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/quick-quiz-2.0.4/jb9474.html" afterPath="$PROJECT_DIR$/quick-quiz-2.0.4/jb9474.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/quick-quiz-2.0.4/jb9474.quiz" afterPath="$PROJECT_DIR$/quick-quiz-2.0.4/jb9474.quiz" />
@@ -32,7 +31,7 @@
         <entry file="file://$PROJECT_DIR$/quick-quiz-2.0.4/my_quiz.quiz">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="315">
-              <caret line="21" column="54" lean-forward="true" selection-start-line="21" selection-start-column="54" selection-end-line="21" selection-end-column="54" />
+              <caret line="21" column="54" lean-forward="false" selection-start-line="21" selection-start-column="54" selection-end-line="21" selection-end-column="54" />
               <folding />
             </state>
           </provider>
@@ -43,104 +42,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <marker date="1482485721000" expanded="true" signature="8366:8787" ph="..." />
-                <marker date="1482485721000" expanded="false" signature="8905:8974" ph="..." />
-                <marker date="1482485721000" expanded="false" signature="9082:9110" ph="..." />
-                <marker date="1482485721000" expanded="false" signature="9127:9139" ph="..." />
-                <marker date="1482485721000" expanded="false" signature="9254:9268" ph="..." />
-                <marker date="1482485721000" expanded="true" signature="9269:11415" ph="..." />
-                <marker date="1482485721000" expanded="false" signature="9284:9306" ph="..." />
-                <marker date="1482485721000" expanded="false" signature="9506:9542" ph="..." />
-                <marker date="1482485721000" expanded="false" signature="9647:9672" ph="..." />
-                <marker date="1482485721000" expanded="true" signature="9673:11059" ph="..." />
-                <marker date="1482485721000" expanded="true" signature="9876:11050" ph="..." />
-                <marker date="1482485721000" expanded="true" signature="9929:11044" ph="..." />
-                <marker date="1482485721000" expanded="true" signature="10022:10151" ph="..." />
-                <marker date="1482485721000" expanded="false" signature="10118:10132" ph="..." />
-                <marker date="1482485721000" expanded="true" signature="10352:10534" ph="..." />
-                <marker date="1482485721000" expanded="false" signature="10449:10463" ph="..." />
-                <marker date="1482485721000" expanded="true" signature="10713:10855" ph="..." />
-                <marker date="1482485721000" expanded="false" signature="10810:10824" ph="..." />
-                <marker date="1482485721000" expanded="false" signature="11168:11237" ph="..." />
-                <marker date="1482485721000" expanded="false" signature="11345:11373" ph="..." />
-                <marker date="1482485721000" expanded="false" signature="11390:11402" ph="..." />
-                <marker date="1482485721000" expanded="false" signature="11517:11531" ph="..." />
-                <marker date="1482485721000" expanded="true" signature="11532:14349" ph="..." />
-                <marker date="1482485721000" expanded="false" signature="11547:11569" ph="..." />
-                <marker date="1482485721000" expanded="false" signature="11782:11818" ph="..." />
-                <marker date="1482485721000" expanded="false" signature="11925:11950" ph="..." />
-                <marker date="1482485721000" expanded="true" signature="11951:13993" ph="..." />
-                <marker date="1482485721000" expanded="true" signature="12217:13984" ph="..." />
-                <marker date="1482485721000" expanded="true" signature="12270:13978" ph="..." />
-                <marker date="1482485721000" expanded="true" signature="12278:13972" ph="..." />
-                <marker date="1482485721000" expanded="true" signature="12288:13963" ph="..." />
-                <marker date="1482485721000" expanded="true" signature="12363:12890" ph="..." />
-                <marker date="1482485721000" expanded="false" signature="12845:12859" ph="..." />
-                <marker date="1482485721000" expanded="true" signature="12897:13424" ph="..." />
-                <marker date="1482485721000" expanded="false" signature="13379:13393" ph="..." />
-                <marker date="1482485721000" expanded="true" signature="13431:13952" ph="..." />
-                <marker date="1482485721000" expanded="false" signature="13906:13920" ph="..." />
-                <marker date="1482485721000" expanded="false" signature="14102:14171" ph="..." />
-                <marker date="1482485721000" expanded="false" signature="14279:14307" ph="..." />
-                <marker date="1482485721000" expanded="false" signature="14324:14336" ph="..." />
-                <marker date="1482485721000" expanded="false" signature="14451:14465" ph="..." />
-                <marker date="1482485721000" expanded="true" signature="14466:15886" ph="..." />
-                <marker date="1482485721000" expanded="false" signature="14481:14503" ph="..." />
-                <marker date="1482485721000" expanded="false" signature="14716:14752" ph="..." />
-                <marker date="1482485721000" expanded="false" signature="14864:14889" ph="..." />
-                <marker date="1482485721000" expanded="true" signature="14890:15530" ph="..." />
-                <marker date="1482485721000" expanded="true" signature="15093:15521" ph="..." />
-                <marker date="1482485721000" expanded="true" signature="15146:15515" ph="..." />
-                <marker date="1482485721000" expanded="true" signature="15186:15315" ph="..." />
-                <marker date="1482485721000" expanded="false" signature="15282:15296" ph="..." />
-                <marker date="1482485721000" expanded="true" signature="15377:15508" ph="..." />
-                <marker date="1482485721000" expanded="false" signature="15473:15487" ph="..." />
-                <marker date="1482485721000" expanded="false" signature="15639:15708" ph="..." />
-                <marker date="1482485721000" expanded="false" signature="15816:15844" ph="..." />
-                <marker date="1482485721000" expanded="false" signature="15861:15873" ph="..." />
-                <marker date="1482485721000" expanded="false" signature="15988:16002" ph="..." />
-                <marker date="1482485721000" expanded="true" signature="16003:18293" ph="..." />
-                <marker date="1482485721000" expanded="false" signature="16106:16128" ph="..." />
-                <marker date="1482485721000" expanded="false" signature="16341:16377" ph="..." />
-                <marker date="1482485721000" expanded="false" signature="16446:16471" ph="..." />
-                <marker date="1482485721000" expanded="true" signature="16472:17938" ph="..." />
-                <marker date="1482485721000" expanded="true" signature="16603:16995" ph="..." />
-                <marker date="1482485721000" expanded="true" signature="16701:16945" ph="..." />
-                <marker date="1482485721000" expanded="false" signature="16965:16977" ph="..." />
-                <marker date="1482485721000" expanded="true" signature="17089:17929" ph="..." />
-                <marker date="1482485721000" expanded="false" signature="18046:18115" ph="..." />
-                <marker date="1482485721000" expanded="false" signature="18223:18251" ph="..." />
-                <marker date="1482485721000" expanded="false" signature="18268:18280" ph="..." />
-                <marker date="1482485721000" expanded="false" signature="18395:18409" ph="..." />
-                <marker date="1482485721000" expanded="true" signature="18410:21174" ph="..." />
-                <marker date="1482485721000" expanded="false" signature="18513:18535" ph="..." />
-                <marker date="1482485721000" expanded="false" signature="18748:18784" ph="..." />
-                <marker date="1482485721000" expanded="false" signature="18853:18878" ph="..." />
-                <marker date="1482485721000" expanded="true" signature="18879:20819" ph="..." />
-                <marker date="1482485721000" expanded="true" signature="19010:19532" ph="..." />
-                <marker date="1482485721000" expanded="true" signature="19108:19482" ph="..." />
-                <marker date="1482485721000" expanded="false" signature="19502:19514" ph="..." />
-                <marker date="1482485721000" expanded="true" signature="19626:20810" ph="..." />
-                <marker date="1482485721000" expanded="false" signature="20927:20996" ph="..." />
-                <marker date="1482485721000" expanded="false" signature="21104:21132" ph="..." />
-                <marker date="1482485721000" expanded="false" signature="21149:21161" ph="..." />
-                <marker date="1482485721000" expanded="true" signature="21281:22538" ph="..." />
-                <marker date="1482485721000" expanded="true" signature="21328:22490" ph="{...}" />
-                <marker date="1482485721000" expanded="true" signature="21369:22431" ph="{&quot;lbn&quot;: &quot;Finish quiz&quot;...}" />
-                <marker date="1482485721000" expanded="true" signature="22648:22661" ph="..." />
-                <marker date="1482485721000" expanded="true" signature="22935:22947" ph="..." />
-                <marker date="1482485721000" expanded="true" signature="23090:23102" ph="..." />
-                <marker date="1482485721000" expanded="true" signature="23191:23203" ph="..." />
-                <marker date="1482485721000" expanded="true" signature="23294:23306" ph="..." />
-                <marker date="1482485721000" expanded="true" signature="23396:23408" ph="..." />
-                <marker date="1482485721000" expanded="true" signature="23501:23513" ph="..." />
-                <marker date="1482485721000" expanded="true" signature="23547:23889" ph="..." />
-                <marker date="1482485721000" expanded="true" signature="23553:23568" ph="/*...*/" />
-                <marker date="1482485721000" expanded="true" signature="23869:23878" ph="/*...*/" />
-                <marker date="1482485721000" expanded="true" signature="23974:23986" ph="..." />
-                <marker date="1482485721000" expanded="true" signature="24088:24100" ph="..." />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -148,8 +50,8 @@
       <file leaf-file-name="jb9474.quiz" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/quick-quiz-2.0.4/jb9474.quiz">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-808">
-              <caret line="99" column="80" lean-forward="false" selection-start-line="99" selection-start-column="80" selection-end-line="99" selection-end-column="80" />
+            <state relative-caret-position="57">
+              <caret line="38" column="21" lean-forward="false" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -159,7 +61,7 @@
         <entry file="file://$PROJECT_DIR$/quick-quiz-2.0.4/helpers.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+              <caret line="17" column="12" lean-forward="false" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -168,7 +70,7 @@
       <file leaf-file-name="my_quiz.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/quick-quiz-2.0.4/my_quiz.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-720">
+            <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -178,7 +80,7 @@
       <file leaf-file-name="compile_quiz.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/quick-quiz-2.0.4/resources/compile_quiz.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="975">
+            <state relative-caret-position="795">
               <caret line="65" column="0" lean-forward="false" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
               <folding>
                 <element signature="e#99#108#0" expanded="true" />
@@ -200,7 +102,7 @@
       <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/quiz/quiz/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
+            <state relative-caret-position="435">
               <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
               <folding />
             </state>
@@ -220,6 +122,7 @@
     <findStrings>
       <find>matrix</find>
       <find>sort</find>
+      <find>single</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -242,7 +145,7 @@
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1680" />
-    <option name="height" value="955" />
+    <option name="height" value="962" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -260,7 +163,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -303,6 +205,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -419,6 +322,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -558,32 +467,40 @@
       <option name="presentableId" value="Default" />
       <updated>1482144540718</updated>
     </task>
+    <task id="LOCAL-00001" summary="next questions">
+      <created>1482485833781</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1482485833781</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="955" extended-state="0" />
+    <frame x="0" y="23" width="1680" height="962" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18988095" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295711" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39954853" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295711" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="The R Graphics" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Packages" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39954853" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -600,6 +517,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="next questions" />
+    <option name="LAST_COMMIT_MESSAGE" value="next questions" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -615,8 +536,32 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/quick-quiz-2.0.4/my_quiz.quiz">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="54" lean-forward="true" selection-start-line="21" selection-start-column="54" selection-end-line="21" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quick-quiz-2.0.4/jb9474.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quick-quiz-2.0.4/jb9474.quiz">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quick-quiz-2.0.4/helpers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
           <folding />
         </state>
       </provider>
@@ -631,17 +576,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/quick-quiz-2.0.4/resources/compile_quiz.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#99#108#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/quick-quiz-2.0.4/resources/compile_quiz.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="975">
+        <state relative-caret-position="795">
           <caret line="65" column="0" lean-forward="false" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
           <folding>
             <element signature="e#99#108#0" expanded="true" />
@@ -659,7 +594,59 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/quiz/quiz/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
+        <state relative-caret-position="435">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quick-quiz-2.0.4/my_quiz.quiz">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quick-quiz-2.0.4/my_quiz.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quick-quiz-2.0.4/resources/compile_quiz.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#99#108#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quick-quiz-2.0.4/resources/compile_quiz.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="795">
+          <caret line="65" column="0" lean-forward="false" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+          <folding>
+            <element signature="e#99#108#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quiz/quiz/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quiz/quiz/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
           <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
           <folding />
         </state>
@@ -667,7 +654,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/quick-quiz-2.0.4/my_quiz.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-720">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -676,136 +663,32 @@
     <entry file="file://$PROJECT_DIR$/quick-quiz-2.0.4/helpers.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+          <caret line="17" column="12" lean-forward="false" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/quick-quiz-2.0.4/jb9474text.quiz">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/quick-quiz-2.0.4/jb9474text.quiz" />
     <entry file="file://$PROJECT_DIR$/quick-quiz-2.0.4/jb9474.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1482485721000" expanded="true" signature="8366:8787" ph="..." />
-            <marker date="1482485721000" expanded="false" signature="8905:8974" ph="..." />
-            <marker date="1482485721000" expanded="false" signature="9082:9110" ph="..." />
-            <marker date="1482485721000" expanded="false" signature="9127:9139" ph="..." />
-            <marker date="1482485721000" expanded="false" signature="9254:9268" ph="..." />
-            <marker date="1482485721000" expanded="true" signature="9269:11415" ph="..." />
-            <marker date="1482485721000" expanded="false" signature="9284:9306" ph="..." />
-            <marker date="1482485721000" expanded="false" signature="9506:9542" ph="..." />
-            <marker date="1482485721000" expanded="false" signature="9647:9672" ph="..." />
-            <marker date="1482485721000" expanded="true" signature="9673:11059" ph="..." />
-            <marker date="1482485721000" expanded="true" signature="9876:11050" ph="..." />
-            <marker date="1482485721000" expanded="true" signature="9929:11044" ph="..." />
-            <marker date="1482485721000" expanded="true" signature="10022:10151" ph="..." />
-            <marker date="1482485721000" expanded="false" signature="10118:10132" ph="..." />
-            <marker date="1482485721000" expanded="true" signature="10352:10534" ph="..." />
-            <marker date="1482485721000" expanded="false" signature="10449:10463" ph="..." />
-            <marker date="1482485721000" expanded="true" signature="10713:10855" ph="..." />
-            <marker date="1482485721000" expanded="false" signature="10810:10824" ph="..." />
-            <marker date="1482485721000" expanded="false" signature="11168:11237" ph="..." />
-            <marker date="1482485721000" expanded="false" signature="11345:11373" ph="..." />
-            <marker date="1482485721000" expanded="false" signature="11390:11402" ph="..." />
-            <marker date="1482485721000" expanded="false" signature="11517:11531" ph="..." />
-            <marker date="1482485721000" expanded="true" signature="11532:14349" ph="..." />
-            <marker date="1482485721000" expanded="false" signature="11547:11569" ph="..." />
-            <marker date="1482485721000" expanded="false" signature="11782:11818" ph="..." />
-            <marker date="1482485721000" expanded="false" signature="11925:11950" ph="..." />
-            <marker date="1482485721000" expanded="true" signature="11951:13993" ph="..." />
-            <marker date="1482485721000" expanded="true" signature="12217:13984" ph="..." />
-            <marker date="1482485721000" expanded="true" signature="12270:13978" ph="..." />
-            <marker date="1482485721000" expanded="true" signature="12278:13972" ph="..." />
-            <marker date="1482485721000" expanded="true" signature="12288:13963" ph="..." />
-            <marker date="1482485721000" expanded="true" signature="12363:12890" ph="..." />
-            <marker date="1482485721000" expanded="false" signature="12845:12859" ph="..." />
-            <marker date="1482485721000" expanded="true" signature="12897:13424" ph="..." />
-            <marker date="1482485721000" expanded="false" signature="13379:13393" ph="..." />
-            <marker date="1482485721000" expanded="true" signature="13431:13952" ph="..." />
-            <marker date="1482485721000" expanded="false" signature="13906:13920" ph="..." />
-            <marker date="1482485721000" expanded="false" signature="14102:14171" ph="..." />
-            <marker date="1482485721000" expanded="false" signature="14279:14307" ph="..." />
-            <marker date="1482485721000" expanded="false" signature="14324:14336" ph="..." />
-            <marker date="1482485721000" expanded="false" signature="14451:14465" ph="..." />
-            <marker date="1482485721000" expanded="true" signature="14466:15886" ph="..." />
-            <marker date="1482485721000" expanded="false" signature="14481:14503" ph="..." />
-            <marker date="1482485721000" expanded="false" signature="14716:14752" ph="..." />
-            <marker date="1482485721000" expanded="false" signature="14864:14889" ph="..." />
-            <marker date="1482485721000" expanded="true" signature="14890:15530" ph="..." />
-            <marker date="1482485721000" expanded="true" signature="15093:15521" ph="..." />
-            <marker date="1482485721000" expanded="true" signature="15146:15515" ph="..." />
-            <marker date="1482485721000" expanded="true" signature="15186:15315" ph="..." />
-            <marker date="1482485721000" expanded="false" signature="15282:15296" ph="..." />
-            <marker date="1482485721000" expanded="true" signature="15377:15508" ph="..." />
-            <marker date="1482485721000" expanded="false" signature="15473:15487" ph="..." />
-            <marker date="1482485721000" expanded="false" signature="15639:15708" ph="..." />
-            <marker date="1482485721000" expanded="false" signature="15816:15844" ph="..." />
-            <marker date="1482485721000" expanded="false" signature="15861:15873" ph="..." />
-            <marker date="1482485721000" expanded="false" signature="15988:16002" ph="..." />
-            <marker date="1482485721000" expanded="true" signature="16003:18293" ph="..." />
-            <marker date="1482485721000" expanded="false" signature="16106:16128" ph="..." />
-            <marker date="1482485721000" expanded="false" signature="16341:16377" ph="..." />
-            <marker date="1482485721000" expanded="false" signature="16446:16471" ph="..." />
-            <marker date="1482485721000" expanded="true" signature="16472:17938" ph="..." />
-            <marker date="1482485721000" expanded="true" signature="16603:16995" ph="..." />
-            <marker date="1482485721000" expanded="true" signature="16701:16945" ph="..." />
-            <marker date="1482485721000" expanded="false" signature="16965:16977" ph="..." />
-            <marker date="1482485721000" expanded="true" signature="17089:17929" ph="..." />
-            <marker date="1482485721000" expanded="false" signature="18046:18115" ph="..." />
-            <marker date="1482485721000" expanded="false" signature="18223:18251" ph="..." />
-            <marker date="1482485721000" expanded="false" signature="18268:18280" ph="..." />
-            <marker date="1482485721000" expanded="false" signature="18395:18409" ph="..." />
-            <marker date="1482485721000" expanded="true" signature="18410:21174" ph="..." />
-            <marker date="1482485721000" expanded="false" signature="18513:18535" ph="..." />
-            <marker date="1482485721000" expanded="false" signature="18748:18784" ph="..." />
-            <marker date="1482485721000" expanded="false" signature="18853:18878" ph="..." />
-            <marker date="1482485721000" expanded="true" signature="18879:20819" ph="..." />
-            <marker date="1482485721000" expanded="true" signature="19010:19532" ph="..." />
-            <marker date="1482485721000" expanded="true" signature="19108:19482" ph="..." />
-            <marker date="1482485721000" expanded="false" signature="19502:19514" ph="..." />
-            <marker date="1482485721000" expanded="true" signature="19626:20810" ph="..." />
-            <marker date="1482485721000" expanded="false" signature="20927:20996" ph="..." />
-            <marker date="1482485721000" expanded="false" signature="21104:21132" ph="..." />
-            <marker date="1482485721000" expanded="false" signature="21149:21161" ph="..." />
-            <marker date="1482485721000" expanded="true" signature="21281:22538" ph="..." />
-            <marker date="1482485721000" expanded="true" signature="21328:22490" ph="{...}" />
-            <marker date="1482485721000" expanded="true" signature="21369:22431" ph="{&quot;lbn&quot;: &quot;Finish quiz&quot;...}" />
-            <marker date="1482485721000" expanded="true" signature="22648:22661" ph="..." />
-            <marker date="1482485721000" expanded="true" signature="22935:22947" ph="..." />
-            <marker date="1482485721000" expanded="true" signature="23090:23102" ph="..." />
-            <marker date="1482485721000" expanded="true" signature="23191:23203" ph="..." />
-            <marker date="1482485721000" expanded="true" signature="23294:23306" ph="..." />
-            <marker date="1482485721000" expanded="true" signature="23396:23408" ph="..." />
-            <marker date="1482485721000" expanded="true" signature="23501:23513" ph="..." />
-            <marker date="1482485721000" expanded="true" signature="23547:23889" ph="..." />
-            <marker date="1482485721000" expanded="true" signature="23553:23568" ph="/*...*/" />
-            <marker date="1482485721000" expanded="true" signature="23869:23878" ph="/*...*/" />
-            <marker date="1482485721000" expanded="true" signature="23974:23986" ph="..." />
-            <marker date="1482485721000" expanded="true" signature="24088:24100" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/quick-quiz-2.0.4/my_quiz.quiz">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
-          <caret line="21" column="54" lean-forward="true" selection-start-line="21" selection-start-column="54" selection-end-line="21" selection-end-column="54" />
+          <caret line="21" column="54" lean-forward="false" selection-start-line="21" selection-start-column="54" selection-end-line="21" selection-end-column="54" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/quick-quiz-2.0.4/jb9474.quiz">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-808">
-          <caret line="99" column="80" lean-forward="false" selection-start-line="99" selection-start-column="80" selection-end-line="99" selection-end-column="80" />
+        <state relative-caret-position="57">
+          <caret line="38" column="21" lean-forward="false" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
           <folding />
         </state>
       </provider>
